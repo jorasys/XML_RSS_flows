@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mon Flux RSS</title>
+    <link>http://www.example.com</link>
+    <description>Exemple de flux RSS</description>
+    <language>fr</language>
+    <pubDate>Mon, 19 Jun 2023 09:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Jun 2023 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Article 1</title>
+      <link>http://www.example.com/article-1</link>
+      <description>Ceci est le premier article du flux RSS.</description>
+      <pubDate>Mon, 18 Jun 2023 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Article 2</title>
+      <link>http://www.example.com/article-2</link>
+      <description>Ceci est le deuxième article du flux RSS.</description>
+      <pubDate>Mon, 17 Jun 2023 09:00:00 GMT</pubDate>
+    </item>
+    <!-- Ajoutez d'autres éléments <item> pour plus d'articles -->
+  </channel>
+</rss>
